@@ -1,0 +1,51 @@
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\bin\Debug\INVENTORY.exe.config
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.exe
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.pdb
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\bin\Debug\INVENTORY.exe
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\bin\Debug\INVENTORY.pdb
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\bin\Debug\Guna.UI.dll
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\bin\Debug\Guna.UI.pdb
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.csprojResolveAssemblyReference.cache
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Admin_empdata.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_dashboard.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_itemdata.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_managestocks.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_qualityinspection.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_login.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Sales_salesorder.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Properties.Resources.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.csproj.GenerateResource.Cache
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Admin_empdata_position.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_itemdata_categor.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Payment.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Admin_records.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_records.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_records_monitoring.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\RODA CUTE\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Frm_Sales_record.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\bin\Debug\INVENTORY.exe.config
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.exe
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.pdb
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\bin\Debug\INVENTORY.exe
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\bin\Debug\INVENTORY.pdb
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\bin\Debug\Guna.UI.pdb
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.csprojResolveAssemblyReference.cache
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Admin_empdata.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Admin_records.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_dashboard.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_itemdata.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_managestocks.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_qualityinspection.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_records.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Inventory_records_monitoring.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_login.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Sales_record.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Sales_salesorder.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Properties.Resources.resources
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.csproj.GenerateResource.Cache
+C:\Users\esqui\Documents\SHARMELAH FILES\BACKUP\New folder\INVENTORY - august 6 b\INVENTORY\obj\Debug\INVENTORY.Frm_Admin_rec.resources
+G:\Sample Programs_System\RODA CUTE\backups\INVENTORY - recovered\INVENTORY\bin\Debug\INVENTORY.exe.config
+G:\Sample Programs_System\RODA CUTE\backups\INVENTORY - recovered\INVENTORY\obj\Debug\INVENTORY.exe
+G:\Sample Programs_System\RODA CUTE\backups\INVENTORY - recovered\INVENTORY\obj\Debug\INVENTORY.pdb
+F:\Sample Programs_System\RODA CUTE\backups\INVENTORY - recovered\INVENTORY\bin\Debug\INVENTORY.exe.config
+F:\Sample Programs_System\RODA CUTE\backups\INVENTORY - recovered\INVENTORY\obj\Debug\INVENTORY.exe
+F:\Sample Programs_System\RODA CUTE\backups\INVENTORY - recovered\INVENTORY\obj\Debug\INVENTORY.pdb
